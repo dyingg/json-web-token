@@ -1,0 +1,23 @@
+{
+  "name": "json-web-token",
+  "version": "1.0.0",
+  "description": "Custom JWT manager for express created to create reliable user keys for cursed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyingg/json-web-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyingg/json-web-token/issues"
+  },
+  "homepage": "https://github.com/dyingg/json-web-token#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
