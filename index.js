@@ -98,7 +98,7 @@ function jwt(options) {
 
     //res access for function to save token
     res.saveToken = saveToken;
-
+    req.saveToken = saveToken;
     // //Proxy end to mimic functionality of express-session.
     // res.end = function end(chunk, encoding) {
     //   if (ended) {
