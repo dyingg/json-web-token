@@ -1,6 +1,6 @@
 # Express-JWT
 
-Custom JWT manager for express created to create reliable user keys for cursed.
+Custom JWT manager for express.
 
 ## Example
 
