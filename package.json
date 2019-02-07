@@ -18,6 +18,8 @@
   "homepage": "https://github.com/dyingg/json-web-token#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "cookie": "^0.3.1",
+    "express": "^4.16.4",
     "mocha": "^5.2.0"
   }
 }
