@@ -37,7 +37,9 @@ Only one of req.session or req.token must be used throughout the application, in
 - decline user keys that do not have 128 bit entropy unless using unsafe mode.
 - add auto save on res.end() [Currently breaking when res.write is used]
 
-  Goal is to comply with RFC 7515
+## Project
+
+Goal is to comply with RFC 7515
 
 https://tools.ietf.org/html/rfc7515#page-10
 
